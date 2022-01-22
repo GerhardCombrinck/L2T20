@@ -1,0 +1,21 @@
+Order number 0
+Customer:Erik Kruger
+Email:  erik@gmail.com
+Phone number: 0587585475
+Location:  Port Elizabeth
+
+You have ordered the following from Panarottis in  Johannesburg:
+
+1 x Bacon & Ham (R110.9)
+
+
+Special instructions: 0
+
+Total: R110.9
+
+Lily Drew is nearest to the restaurant and so he will be delivering your order to you at: 
+
+ 55 Seagull Ave
+ Port Elizabeth
+
+If you need to contact the restaurant, their number is 0826578954
